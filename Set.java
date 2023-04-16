@@ -1,7 +1,7 @@
 /**
  * The SET class represents the set of odd natural numbers.
  *
- * @author (shira giladi/213707235)
+ * @author: (shira giladi/213707235)
  * @version (31.05.2022)
  */
 public class Set
